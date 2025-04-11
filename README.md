@@ -1,2 +1,2 @@
 # CSS-Positioning-Exercise
-Implementing Different CSS Positioning in real exercise. Since static is default and fixed is also very easy, that is why I am only using relative and absolute positioning only for this web page. and also this web page only have a single html ( internal CSS used here)
+Implementing Different CSS Positioning in a real exercise. Since static is the default and fixed is also very easy, I am only using relative and absolute positioning for this web page. And also, this web page only has a single HTML ( internal CSS used here)
